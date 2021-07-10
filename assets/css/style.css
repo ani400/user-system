@@ -43,7 +43,7 @@ a {
 
 .border-shadow{
     border: 1px solid var(--border-btn);
-    box-shadow: 1px 3px 10px #e9ecef;
+    box-shadow: 1px 2px 3px #242629;
 }
 
 .text-dark{
@@ -59,7 +59,7 @@ a {
 }
 
 .text-gradient{
-    background: linear-gradient(to right, #8e2de2, #4a00e0);
+    background: linear-gradient(to right, #e74e1f, #4a00e0);
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent;
