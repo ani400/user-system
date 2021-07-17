@@ -14,4 +14,18 @@ That's it. You are ready to go. To execute this project run:
 ```
 npm start
 ```
+## Website Screenshots <br>
 
+### Landing Page: <br>
+![landing page](/assets/img/landing_page.png)
+<br><br>
+
+### Add New User: <br>
+![Add User](/assets/img/add_user.png)
+<br><br>
+
+### Update User: <br>
+![Update User](/assets/img/update_user.png)
+<br><br>
+### Delete User: <br>
+![Delete User](/assets/img/delete_user.png)
