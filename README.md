@@ -10,7 +10,8 @@ npm install
 ```
 
 Then Create config.env file and create PORT and MONGO_URI Variable and specify Value.
-That's it. You are ready to go. To execute this project run:
+That's it. You are ready to go. 
+To execute this project run:
 ```
 npm start
 ```
